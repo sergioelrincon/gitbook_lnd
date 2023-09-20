@@ -4,11 +4,15 @@
 
 * [Editor Markdown](https://editormarkdown.com/)
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía oficial](https://daringfireball.net/projects/markdown/)
 * [Aplicaciones que usan Markdown](https://tutorialmarkdown.com/aplicaciones)
 * [Parsers](https://tutorialmarkdown.com/parsers)
 * [markdown.es](https://markdown.es/)
 * [iA Writer](https://ia.net/writer)
+
+## Referencias
+
+* [Guía rápida](https://greg.schueler.us/doc/markdown.txt)
+* [Guía oficial](https://daringfireball.net/projects/markdown/)
 
 ## Contenidos
 
