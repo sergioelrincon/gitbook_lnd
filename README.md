@@ -9,7 +9,7 @@ description: Un editor de código fuente multiplataforma, rápido, ligero y exte
 * [Web ofical](https://code.visualstudio.com/)
 * [Características más destacadas](https://es.wikipedia.org/wiki/Visual\_Studio\_Code)
 * [Editando Markdown con Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
-  *
+  * [Inserción de imágenes](https://code.visualstudio.com/docs/languages/markdown#\_inserting-images-and-links-to-files)
 * [Extensión "Markdown Emoji"](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)\
   Permite que se visualice la previsualización de la sintaxis [:emoji: ](https://tutorialmarkdown.com/emojis)
 * [Extensión "Markdown All in One"](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)\
