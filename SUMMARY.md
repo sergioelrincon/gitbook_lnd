@@ -16,6 +16,9 @@
 * [LaTex](introduccion-a-los-lenguajes-de-marcas/latex.md)
 * [KML](introduccion-a-los-lenguajes-de-marcas/kml.md)
 * [SGML](introduccion-a-los-lenguajes-de-marcas/sgml.md)
+* [YAML](introduccion-a-los-lenguajes-de-marcas/yaml.md)
+* [A-FRAME](introduccion-a-los-lenguajes-de-marcas/a-frame.md)
+* [JSON](introduccion-a-los-lenguajes-de-marcas/json.md)
 
 ## HTML
 
