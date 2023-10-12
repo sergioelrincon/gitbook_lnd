@@ -8,6 +8,9 @@ description: Un editor de código fuente multiplataforma, rápido, ligero y exte
 
 * [Web ofical](https://code.visualstudio.com/)
 * [Características más destacadas](https://es.wikipedia.org/wiki/Visual\_Studio\_Code)
+
+### Markdown
+
 * [Editando Markdown con Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
   * [Inserción de imágenes y enlaces a ficheros](https://code.visualstudio.com/docs/languages/markdown#\_inserting-images-and-links-to-files)
   * [Esquema](https://code.visualstudio.com/docs/languages/markdown#\_editing-markdown)
@@ -23,3 +26,13 @@ description: Un editor de código fuente multiplataforma, rápido, ligero y exte
   * [Tabla de contenido](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
   * [Exportación a HTML](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#print-markdown-to-html)
   * [Pegar enlaces en texto seleccionado](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#others)
+
+### HTML
+
+* [Editando HTML con Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
+  * [Intellisense](https://code.visualstudio.com/docs/languages/html#\_intellisense)
+  * [Cierre de etiquetas automático](https://code.visualstudio.com/docs/languages/html#\_close-tags)
+  * [Selector de color](https://code.visualstudio.com/docs/languages/html#\_color-picker)
+  * [Información adicional al pasar el ratón sobre un elemento](https://code.visualstudio.com/docs/languages/html#\_hover)
+  * [Formateo](https://code.visualstudio.com/docs/languages/html#\_formatting)
+
