@@ -13,6 +13,7 @@
   * Mi primer documento HTML
   * Elementos HTML
   * Estructura de un documento HTML
+* [Comentarios](https://www.w3schools.com/html/html\_comments.asp)
 * [Conceptos básicos](https://www.w3schools.com/html/html\_basic.asp)
   * Estructura
   * Declaración \<!DOCTYPE>
@@ -41,4 +42,6 @@
   * Líneas horizontales
   * Saltos de línea
   * Texto preformateado
+* [Estilos](https://www.w3schools.com/html/html\_styles.asp)
+* [Formato](https://www.w3schools.com/html/html\_formatting.asp)
 
