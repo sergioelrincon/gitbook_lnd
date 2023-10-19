@@ -2,7 +2,7 @@
 
 ## Descripción
 
-YAML (acrónimo de "YAML Ain't Markup Language" o "YAML Ain't a Markup Language") es un lenguaje de serialización de datos que se utiliza para representar información de manera estructurada y legible por humanos. Aunque YAML comparte similitudes con lenguajes de marcas como XML y JSON, se diferencia en su enfoque en la legibilidad y simplicidad. YAML se utiliza comúnmente para la configuración de software, archivos de datos y otras aplicaciones donde la estructura de los datos es importante.
+YAML (acrónimo de "YAML Ain't Markup Language" o "YAML Ain't a Markup Language") es un lenguaje que se utiliza para representar información de manera estructurada y legible por humanos. Aunque YAML comparte similitudes con lenguajes de marcas como XML y JSON, se diferencia en su enfoque en la legibilidad y simplicidad. YAML se utiliza comúnmente para la configuración de software, archivos de datos y otras aplicaciones donde la estructura de los datos es importante.
 
 La utilidad principal de YAML radica en su capacidad para describir datos en un formato que es fácil de entender y editar para los humanos, sin requerir etiquetas o caracteres especiales excesivos. Esto hace que YAML sea especialmente útil en la configuración de aplicaciones, ya que permite a los desarrolladores y administradores definir parámetros y valores de configuración de una manera más natural y legible.
 
