@@ -2,7 +2,7 @@
 
 ## Descripción
 
-El lenguaje de marcas KML (Keyhole Markup Language) es un estándar utilizado para representar información geoespacial en formato de marcado. KML es especialmente valioso en el contexto de sistemas de información geográfica (SIG) y aplicaciones de mapas, ya que permite describir de manera detallada la ubicación de puntos de interés, rutas, polígonos, imágenes y otra información geoespacial. Su principal utilidad radica en la representación y el intercambio de datos geográficos, lo que lo convierte en un formato esencial para la creación de mapas interactivos y la visualización de información espacial en aplicaciones como Google Earth y Google Maps. KML permite definir elementos como marcadores, líneas, polígonos, estilos de visualización, descripciones y enlaces multimedia asociados con ubicaciones geográficas. También admite animaciones, lo que hace que sea posible mostrar cambios en el tiempo y eventos geoespaciales a lo largo de un período.
+El lenguaje de marcas KML (Keyhole Markup Language) es un lenguajes de marcas basado en XML, ampliamente  utilizado para representar datos geográficos. KML es especialmente valioso en el contexto de aplicaciones de mapas, ya que permite describir de manera detallada la ubicación de puntos de interés, rutas, polígonos, imágenes y otra información geoespacial. Su principal utilidad radica en la representación y el intercambio de datos geográficos, lo que lo convierte en un formato esencial para la creación de mapas interactivos y la visualización de información espacial en aplicaciones como Google Earth y Google Maps. KML permite definir elementos como marcadores, líneas, polígonos, estilos de visualización, descripciones y enlaces multimedia asociados con ubicaciones geográficas. También admite animaciones, lo que hace que sea posible mostrar cambios en el tiempo y eventos geoespaciales a lo largo de un período.
 
 ## Ejemplo
 
@@ -24,4 +24,4 @@ El lenguaje de marcas KML (Keyhole Markup Language) es un estándar utilizado pa
 * `<name>` proporciona un nombre para el marcador.
 * `<description>` ofrece una descripción adicional.
 * `<Point>` indica que se trata de un punto geográfico.
-* `<coordinates>` especifica las coordenadas de longitud, latitud y altitud del lugar. En este caso, las coordenadas representan una ubicación en San Francisco, California.
+* `<coordinates>` especifica las coordenadas de longitud, latitud y altitud del lugar.
