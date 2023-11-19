@@ -3,9 +3,19 @@
 ## Contenidos
 
 * Declaración de formulario con [\<form>](https://developer.mozilla.org/es/docs/Web/HTML/Element/form)
+  * action="..."
+  * enctype="..."
+  * method="..."
 * Definición de etiquetas con [\<label>](https://developer.mozilla.org/es/docs/Web/HTML/Element/label)
+  * for="..."
+* Agrupación de campos con [\<fieldset>](https://developer.mozilla.org/es/docs/Web/HTML/Element/fieldset)
 * Tipos de campos básicos
   * [\<input type="text">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
+    * maxlength="..."
+    * minlength="..."
+    * readonly="..."
+    * size="..."
+    * spellcheck="..."
   * [\<input type="radio">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
   * [\<input type="checkbox">](https://developer.mozilla.org/es/docs/Web/HTML/Element/input/checkbox)
   * [\<select>](https://developer.mozilla.org/es/docs/Web/HTML/Element/select)
