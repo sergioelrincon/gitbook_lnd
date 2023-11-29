@@ -44,4 +44,12 @@
   * Texto preformateado
 * [Estilos](https://www.w3schools.com/html/html\_styles.asp)
 * [Formato](https://www.w3schools.com/html/html\_formatting.asp)
+* [Colores](https://www.w3schools.com/html/html\_colors.asp)
+* [Imágenes](https://www.w3schools.com/html/html\_images.asp)
+* [Listas](https://www.w3schools.com/html/html\_lists.asp)
+* [Iframes](https://www.w3schools.com/html/html\_iframe.asp)
+* [Elementos semánticos](https://www.w3schools.com/html/html5\_semantic\_elements.asp)
+* [Guía de estilo](https://www.w3schools.com/html/html5\_syntax.asp)
+* [Entidades HTML](https://www.w3schools.com/html/html\_entities.asp)
+* [Juego de caracteres](https://www.w3schools.com/html/html\_charset.asp)
 
