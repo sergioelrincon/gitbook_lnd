@@ -19,6 +19,7 @@
 * [Introducción](html/introduccion.md)
 * [Tablas](html/tablas.md)
 * [Formularios](html/formularios.md)
+* [Clases y objetods](html/clases-y-objetods.md)
 * [Referencia](html/referencia.md)
 
 ## CSS
