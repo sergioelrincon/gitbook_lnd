@@ -21,6 +21,10 @@
 * [Formularios](html/formularios.md)
 * [Referencia](html/referencia.md)
 
+***
+
+* [Git](git.md)
+
 ## CSS
 
 * [Introducción](css/introduccion.md)
@@ -35,7 +39,6 @@
 
 ***
 
-* [Git y Github](git-y-github.md)
 * [GitHub](github.md)
 
 ## XML
