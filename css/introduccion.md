@@ -30,4 +30,6 @@
   * [border vs outline](https://developer.mozilla.org/es/docs/Web/CSS/outline#border\_vs\_outline)
   * [opacity](https://developer.mozilla.org/es/docs/Web/CSS/opacity)
 * [div](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
-* [Ejemplos](https://www.w3schools.com/css/css\_examples.asp)
+* [Ejemplos básicos](https://www.w3schools.com/css/css\_examples.asp)
+* [Cascada y herencia](https://developer.mozilla.org/es/docs/Learn/CSS/Building\_blocks/Cascade\_and\_inheritance)&#x20;
+* [Modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building\_blocks/The\_box\_model)

@@ -21,10 +21,6 @@
 * [Formularios](html/formularios.md)
 * [Referencia](html/referencia.md)
 
-***
-
-* [Git](git.md)
-
 ## CSS
 
 * [Introducción](css/introduccion.md)
@@ -39,11 +35,9 @@
 
 ***
 
-* [GitHub](github.md)
-
-## XML
-
-* [XML](xml/xml.md)
+* [Git y GitHub](git-y-github/README.md)
+  * [Git](git-y-github/git.md)
+  * [GitHub](git-y-github/github.md)
 
 ## Definición de esquemas y vocabularios XML
 
