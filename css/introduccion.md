@@ -8,6 +8,7 @@
 * [Editor online codi.link](https://codi.link/)
 * [Editor online codepen.io](https://codepen.io/)
 * [Can I use?](https://caniuse.com/)
+* [Calculadora de especificidad](http://specificity.keegan.st)
 
 ## Contenidos
 

@@ -36,8 +36,8 @@
 ***
 
 * [Git y GitHub](git-y-github/README.md)
-  * [Git](git-y-github/git.md)
-  * [GitHub](git-y-github/github.md)
+  * [Git](git.md)
+  * [GitHub](github.md)
 
 ## Definición de esquemas y vocabularios XML
 

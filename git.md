@@ -1,4 +1,4 @@
-# Git y Github
+# Git
 
 ## Introducción a Git
 
