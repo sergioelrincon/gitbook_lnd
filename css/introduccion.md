@@ -32,5 +32,5 @@
   * [opacity](https://developer.mozilla.org/es/docs/Web/CSS/opacity)
 * [div](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
 * [Ejemplos básicos](https://www.w3schools.com/css/css\_examples.asp)
-* [Cascada y herencia](https://developer.mozilla.org/es/docs/Learn/CSS/Building\_blocks/Cascade\_and\_inheritance)&#x20;
+* [Cascada, herencia y especificidad](https://developer.mozilla.org/es/docs/Learn/CSS/Building\_blocks/Cascade\_and\_inheritance)
 * [Modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building\_blocks/The\_box\_model)
