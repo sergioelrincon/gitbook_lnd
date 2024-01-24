@@ -24,6 +24,9 @@
 ## CSS
 
 * [Introducción](css/introduccion.md)
+* [Cascada](css/cascada.md)
+* [Especificidad](css/especificidad.md)
+* [Herencia](css/herencia.md)
 
 ## Bootstrap
 
