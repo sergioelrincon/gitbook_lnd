@@ -39,6 +39,8 @@
   * [Introducción](a-frame/introduccion.md)
   * [Conceptos básicos](a-frame/conceptos-basicos.md)
   * [Creación de objetos 3D](a-frame/creacion-de-objetos-3d.md)
+  * [Inspector A-FRAME](a-frame/inspector-a-frame.md)
+* [Page](page.md)
 
 ## Javascript
 
