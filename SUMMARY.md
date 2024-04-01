@@ -33,6 +33,11 @@
 
 * [Bootstrap](bootstrap/bootstrap.md)
 
+## XML
+
+* [Introducción](xml/introduccion.md)
+* [Sintaxis](xml/sintaxis.md)
+
 ***
 
 * [A-FRAME](a-frame/README.md)
@@ -40,14 +45,6 @@
   * [Conceptos básicos](a-frame/conceptos-basicos.md)
   * [Creación de objetos 3D](a-frame/creacion-de-objetos-3d.md)
   * [Inspector A-FRAME](a-frame/inspector-a-frame.md)
-* [Page](page.md)
-
-## Javascript
-
-* [Javascript](javascript/javascript.md)
-
-***
-
 * [Git y GitHub](git-y-github/README.md)
   * [Git](git.md)
   * [GitHub](github.md)
