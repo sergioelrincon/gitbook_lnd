@@ -51,7 +51,9 @@
 
 ## Definición de esquemas y vocabularios XML
 
-* [Definición de esquemas y vocabularios XML](definicion-de-esquemas-y-vocabularios-xml/definicion-de-esquemas-y-vocabularios-xml.md)
+* [DTD](definicion-de-esquemas-y-vocabularios-xml/dtd/README.md)
+  * [Diferencia entre CDATA y PCDATA](definicion-de-esquemas-y-vocabularios-xml/dtd/diferencia-entre-cdata-y-pcdata.md)
+* [XML Schema](definicion-de-esquemas-y-vocabularios-xml/xml-schema.md)
 
 ## Sindicación de contenidos
 
